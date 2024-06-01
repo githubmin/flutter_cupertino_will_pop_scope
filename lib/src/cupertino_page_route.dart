@@ -14,7 +14,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/rendering.dart';
 
 const double _kBackGestureWidth = 20.0;
-final double _kMaxSwipeDistance = 0.42; // As portion of screen.
+final double _kMaxSwipeDistance = 0.2; // As portion of screen.
 const double _kMinFlingVelocity = 1.0; // Screen widths per second.
 
 // An eyeballed value for the maximum time it takes for a page to animate forward
